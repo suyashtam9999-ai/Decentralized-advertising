@@ -293,5 +293,8 @@ This project is open-source and available under the MIT License.
 Built on Stellar's Soroban smart contract platform. Special thanks to the Stellar Development Foundation and the open-source community.
 
 ---
-## Contract Details 
+## Contract Details
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/023b621f-8695-45df-9455-a8e7033a0ee1" />
+
+
 
