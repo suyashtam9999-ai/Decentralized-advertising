@@ -294,7 +294,9 @@ Built on Stellar's Soroban smart contract platform. Special thanks to the Stella
 
 ---
 ## Contract Details
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/023b621f-8695-45df-9455-a8e7033a0ee1" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5c66d281-9914-4aa4-bb86-23e42a514ce0" />
+
+
 
 
 
